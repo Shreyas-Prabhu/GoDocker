@@ -30,3 +30,14 @@ docker build -t awsdocker .
 #spin container
 
 docker run -p 4000:4000 -t awsdocker
+
+#Public IPv4 address
+ 16.170.237.65 |open address in instance for url and port
+
+#URLS
+
+ http://16.170.237.65:4000/tejas/home
+
+ http://16.170.237.65:4000/tejas/exit
+
+ 
